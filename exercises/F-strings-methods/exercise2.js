@@ -1,3 +1,3 @@
-const name = " Daniel  ";
+ var name2 = " Mohamed ";
 
-console.log(message);
+console.log("My nmae is " + name2 + " and my name is " + (name2.trim).length + " characets long");
